@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: 222.251-6
 - Nombre: Lucas Felipe Crespo
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 220.601-8
+- Nombre: Liu Chuan Te
 
 
 ## Objetivos
