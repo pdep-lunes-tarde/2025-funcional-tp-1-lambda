@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: Lambda λ
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 222.251-6
+- Nombre: Lucas Felipe Crespo
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
