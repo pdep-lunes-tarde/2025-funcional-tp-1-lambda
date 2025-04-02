@@ -27,7 +27,7 @@ haceFrioCelsius :: Number -> Bool
 haceFrioCelsius grados = grados <= 8
 
 haceFrioFahrenheit :: Number -> Bool
-haceFrioFahrenheit grados = grados <= 8
+haceFrioFahrenheit grados = grados <= celsiusAFahrenheit 8
 
 -- 2.5 Bonus OPCIONAL
 perimetroCirculo :: Number -> Number
